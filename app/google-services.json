@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "54575433621",
+    "firebase_url": "https://marsplay-c936a.firebaseio.com",
+    "project_id": "marsplay-c936a",
+    "storage_bucket": "marsplay-c936a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54575433621:android:a90a920753ef4eb943589c",
+        "android_client_info": {
+          "package_name": "com.marsplay.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54575433621-hh5errcr31p6loos07c98tk2habh2g5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCidRBH99G8ve40nIrsn-5uI6SqDnlI-KU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54575433621-hh5errcr31p6loos07c98tk2habh2g5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="ok">OK</string>
+    <string name="check_connection">Please check internet connection.</string>
+    <string name="download">Downloading...</string>
+    <string name="no_item_avail">No Item avail.</string>
+    <string name="transition">sharedtransation</string>
+    <string name="description_n_s">Description \n  %s</string>
+    <string name="repo_url_s">Repo Url : %s</string>
+    <string name="user_type_s">PageId : %d</string>
+    <string name="image_uploading_text">Image is Uploading...</string>
+    <string name="image_selected">Image Selected</string>
+    <string name="please_select_image">Please Select Image or Add Image Name</string>
+    <string name="loading_image">Loading Images From Firebase.</string>
+    <string name="image_upload_success">\"Image Uploaded Successfully \"</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="capture_button_alt">Capture</string>
+    <string name="switch_camera_button_alt">Switch camera</string>
+    <string name="gallery_button_alt">Gallery</string>
+    <string name="back_button_alt">Back</string>
+    <string name="share_button_alt">Share</string>
+    <string name="share_hint">Share using</string>
+    <string name="capture_mode_camera">Camera</string>
+    <string name="capture_mode_hdr">HDR</string>
+    <string name="capture_mode_night">Night</string>
+    <string name="delete_button_alt">Delete</string>
+    <string name="delete_dialog">Delete current photo?</string>
+    <string name="delete_title">Confirm</string>
+    <string name="choose">Choose</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="enter_image_name_here_optional">Enter Image Name Here(Optional)</string>
+    <string name="upload_image_to_firebase_storage">Upload image to Firebase Storage</string>
+    <string name="show_all_uploaded_images">Show All Uploaded Images</string>
+</resources>
